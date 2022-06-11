@@ -1,0 +1,53 @@
+.footer {
+    position:absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.spain {
+  
+    
+    padding: 15px 30px;
+    text-align: left;
+    font-size: 15px;
+
+    background-color: rgb(218, 220, 224);
+    border-bottom-style: solid; 
+border-bottom-width: 1px; 
+color: rgb(112, 117, 122); 
+display: block; /*
+font-family arial, sans-serif
+font-size 15px
+height 17.3333px
+padding-bottom 15px
+padding-left 30px
+padding-right 30px
+padding-top 15px */
+}
+.lastbar {
+    display: flex;
+    width: 100%;
+    
+}
+.about {
+    padding: 15px 30px;
+    width: 100%;
+    justify-content: space-around;
+    font-size: 15px;
+    background-color: rgb(218, 220, 224);
+    border-bottom-style: solid; 
+    border-bottom-width: 1px; 
+   
+}
+
+.privacy {
+    padding: 15px 30px;
+    align-items: flex-end;
+    justify-content: space-evenly;
+    font-size: 15px;
+    background-color: rgb(218, 220, 224);
+    border-bottom-style: solid; 
+    border-bottom-width: 1px; 
+    width: 100%;
+    color: rgb(112, 117, 122);
+}
