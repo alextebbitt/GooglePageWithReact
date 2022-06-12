@@ -13,9 +13,9 @@ export const Footer = () => {
           <a href="">How search works </a>
         </div>
         <div className="privacy">
-          <a href="">Privacy</a>
-          <a href="">Terms </a>
-          <a href="">Settings </a>
+          <a href="">Privacy  </a>
+          <a href="">Terms  </a>
+          <a href="">Settings  </a>
         </div>
       </div>
     </div>
